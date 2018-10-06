@@ -1,0 +1,54 @@
+
+body {
+    background-color: #3A3A3A;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #FF5733;
+    margin: 20px;
+}
+
+#container {
+    color: #fff;
+    
+}
+
+.display-1 {
+    color: #FF5733;
+}
+
+.display-4 {
+    margin-bottom: 40px;
+    color: #ffffff;
+}
+
+#userinput {
+    margin-left: 25px;
+}
+
+.input-group {
+    /* width: 25%; */
+    width: 400px;
+    margin: 10px;
+}
+
+ul {
+    /* width: 25%; */
+    width: 400px;
+}
+
+li {
+    list-style-type: none;
+    font-size: 1.5em;
+    padding: 10px;
+    border-left: 6px solid red;
+    background-color: lightgrey;
+}
+
+li:hover {
+    background-color: #A29E9E;
+}
+
+
+#HideListItem {
+    display: none;
+}
