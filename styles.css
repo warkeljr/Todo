@@ -9,7 +9,7 @@ body {
 
 #container {
     color: #fff;
-    
+    margin: 40px;
 }
 
 .display-1 {
@@ -22,18 +22,18 @@ body {
 }
 
 #userinput {
-    margin-left: 25px;
+    /* margin-left: 25px; */
 }
 
 .input-group {
     /* width: 25%; */
-    width: 400px;
-    margin: 10px;
+    width: 300px;
+    /* margin: 10px; */
 }
 
 ul {
     /* width: 25%; */
-    width: 400px;
+    width: 300px;
 }
 
 li {
